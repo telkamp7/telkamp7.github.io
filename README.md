@@ -1,1 +1,0 @@
-# telkamp7.github.io
