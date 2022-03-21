@@ -48,7 +48,7 @@ linkedin_username: kstelkamp
 # about_title: About Me
 about_profile_image: images/Mig og Luna.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hello, my name is Kasper and I am a 27 years old student on the 2nd semester of my master studies. Furthermore, I consider myself a superdad and I live at Trørød Kollegiet together with my wife and two daughters.
+  Hello, my name is Kasper and I am a 27 years old student. I am currently on the 2<sup>nd</sup> semester of my master studies. Furthermore, I live at Trørød Kollegiet together with my wife and two daughters.
   
   I am most skilled in: <mark>Statistics</mark> and <mark>Mathematical Modelling</mark>.
 
@@ -82,9 +82,9 @@ content:
         sub_title: Academic Student assistant
         caption: July 2020 - Present
         quote: >
-          The purpose of the expert panel is to develop mathematical models to throw light on the SARS-CoV-2 disease spread in Denmark.
+          The purpose of the expert panel is to develop mathematical models to throw light on the spread of SARS-CoV-2 in Denmark.
         description: | # this will include new lines to allow paragraphs
-            My main role was to develop and maintain a mathematical model that was used together with an ensemble of models to forecast the SARS-CoV-2 spread in Denmark.
+            My main role was to develop and maintain a mathematical model that was used together with an ensemble of models to forecast the SARS-CoV-2 spread in Denmark, and investigate the effects of specific interventions.
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -96,11 +96,11 @@ content:
           Founded in 1829 with the mission of creating value for the benefit of society, DTU is an international elite technical university where education, scientific advice, and innovation rest on a solid foundation of world-class research.
         description: |
           During my studies I have taken courses at both DTU and the University of Copenhagen. This have given me the opportunity to pursue my interest within immunology and bioinformatics, aswell as my interest within advanced statistics, deep learning, and mathematical modelling. 
-    content:
-      - layout: left
-        title: Technical University of Denmark
-        caption: 2018 - 2021
-        sub_title: Bachelor of Science in Engineering
+#    content:
+#      - layout: left
+#       title: Technical University of Denmark
+#       caption: 2018 - 2021
+#       sub_title: Bachelor of Science in Engineering
     
 #  - title: A Little More About Me
 #    layout: text
