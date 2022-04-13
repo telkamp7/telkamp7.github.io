@@ -68,7 +68,7 @@ content:
         caption: August 2018 - July 2021
         sub_title: Bachelor of Sciene in Engineering (Quantitative Biology and Disease Modelling)
         description: |
-          I am planning to graduate in the summer of 2023 and is still looking for a master thesis project. Preferably, my project will involve implementing state-of-the-art deep learning models to solve tasks within bioinformatics.
+          I am planning to graduate in the summer of 2023 and I am still looking for a master thesis project. Preferably, my project will involve implementing state-of-the-art deep learning models to solve tasks within bioinformatics.
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
