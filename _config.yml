@@ -64,7 +64,12 @@ content:
           Founded in 1829 with the mission of creating value for the benefit of society, DTU is an international elite technical university where education, scientific advice, and innovation rest on a solid foundation of world-class research.
         description: |
           During my studies I have taken courses at both DTU and the University of Copenhagen. This have given me the opportunity to pursue my interest within immunology and bioinformatics, aswell as my interest within advanced statistics, deep learning, and mathematical modelling. 
-  - title: Experience # Title for the section
+      - layout: left
+        title: Technical University of Denmark
+        caption: 2018 - 2021
+        sub_title: Bachelor of Science in Engineering (Quantitative Biology and Disease Modelling)
+
+ - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
