@@ -71,7 +71,17 @@ content:
 #          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
 #        description: | # this will include new lines to allow paragraphs
 #          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
-
+  - title: Education # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Technical University of Denmark
+        caption: 2021 - Present
+        sub_title: Master of Science in Engineering
+        quote: >
+          Founded in 1829 with the mission of creating value for the benefit of society, DTU is an international elite technical university where education, scientific advice, and innovation rest on a solid foundation of world-class research.
+        description: |
+          During my studies I have taken courses at both DTU and the University of Copenhagen. This have given me the opportunity to pursue my interest within immunology and bioinformatics, aswell as my interest within advanced statistics, deep learning, and mathematical modelling. 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -112,22 +122,7 @@ content:
         caption: August 2015 - August 2016
         description: | # this will include new lines to allow paragraphs
             Daily operation of the bakery and general management of the service department in føtex Kokkedal. I took on responsibilities such as: recruitment, product planning and conflict management.
-  - title: Education # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: Technical University of Denmark
-        caption: 2021 - Present
-        sub_title: Master of Science in Engineering
-        quote: >
-          Founded in 1829 with the mission of creating value for the benefit of society, DTU is an international elite technical university where education, scientific advice, and innovation rest on a solid foundation of world-class research.
-        description: |
-          During my studies I have taken courses at both DTU and the University of Copenhagen. This have given me the opportunity to pursue my interest within immunology and bioinformatics, aswell as my interest within advanced statistics, deep learning, and mathematical modelling. 
-#    content:
-#      - layout: left
-#       title: Technical University of Denmark
-#       caption: 2018 - 2021
-#       sub_title: Bachelor of Science in Engineering
+  
     
 #  - title: A Little More About Me
 #    layout: text
