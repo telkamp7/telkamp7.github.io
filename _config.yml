@@ -53,24 +53,6 @@ about_content: | # this will include new lines to allow paragraphs
   I am most skilled in: <mark>Statistics</mark> and <mark>Mathematical Modelling</mark>.
 
 content:
-#  - title: Projects # Title for the section
-#    layout: list # Type of content section (list/text)
-#    content:
-#      - layout: top-middle
-#        title: Super awesome project
-#        link: https://github.com/telkamp7
-#        # link_text: Project Website
-#        additional_links:
-#          - title:  sproogen/modern-resume-theme
-#            icon: fab fa-github
-#            url: github.com/sproogen/modern-resume-theme
-#          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-#          #   icon: fab fa-github
-#          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-#        quote: >
-#          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-#        description: | # this will include new lines to allow paragraphs
-#          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -127,18 +109,7 @@ content:
         sub_title: Team coordinator
         caption: August 2015 - August 2016
         description: | # this will include new lines to allow paragraphs
-            Daily operation of the bakery and general management of the service department in føtex Kokkedal. I took on responsibilities such as: recruitment, product planning and conflict management.    
-#  - title: A Little More About Me
-#    layout: text
-#    content: | # this will include new lines to allow paragraphs
-#      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-#      - Rock climbing
-#      - Gaming
-#      - Knitting
-#      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-
-#      Look at this cool image  
-#      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+            Daily operation of the bakery and general management of the service department in føtex Kokkedal. I took on responsibilities such as: recruitment, product planning and conflict management.
 
 # Footer
 footer_show_references: true
