@@ -48,7 +48,7 @@ linkedin_username: kstelkamp
 # about_title: About Me
 about_profile_image: images/Mig og Luna.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hello, my name is Kasper and I am a 27 years old student. I am currently on the 2<sup>nd</sup> semester of my master studies. Furthermore, I live at Trørød Kollegiet together with my wife and two daughters.
+  Hello, my name is Kasper and I am a 27 years old student. I am currently on the 2<sup>nd</sup> semester of my master studies. Furthermore, I live at Trørød Kollegiet in Vedbæk together with my wife and two daughters.
   
   I am most skilled in: <mark>Statistics</mark> and <mark>Mathematical Modelling</mark>.
 
@@ -85,6 +85,33 @@ content:
           The purpose of the expert panel is to develop mathematical models to throw light on the spread of SARS-CoV-2 in Denmark.
         description: | # this will include new lines to allow paragraphs
             My main role was to develop and maintain a mathematical model that was used together with an ensemble of models to forecast the SARS-CoV-2 spread in Denmark, and investigate the effects of specific interventions.
+     content:
+      - layout: left
+        title: Ungfredensborg
+        link: www.ungfredensborg.dk
+        # link_text: compute.dtu.dk
+        sub_title: eSport Coach
+        caption: October 2017 - January 2019
+        description: | # this will include new lines to allow paragraphs
+            Coached a group of teenagers in the age of 13-17 in the first-person-shooter game Counter Strike: Global Offensive (CS:GO). Our weekly practice resulted in a first place in the national CS:GO youth school competition. Furthermore I was a key figure in organizing three big LAN events with 70+ participants for youngsters in Fredensborg Kommune.
+     content:
+      - layout: left
+        title: Humlebæk Lille Skole
+        link: www.hbls.dk
+        # link_text: compute.dtu.dk
+        sub_title: Substitute teacher
+        caption: August 2016 - June 2018
+        description: | # this will include new lines to allow paragraphs
+            Handled two maternity leaves and worked as a day-to-day substitute teacher.
+     content:
+      - layout: left
+        title: Salling Group
+        link: www.sallinggroup.com
+        # link_text: compute.dtu.dk
+        sub_title: Team coordinator
+        caption: August 2015 - August 2016
+        description: | # this will include new lines to allow paragraphs
+            Daily operation of the bakery and general management of the service department in føtex Kokkedal. I took on responsibilities such as: recruitment, product planning and conflict management.
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
