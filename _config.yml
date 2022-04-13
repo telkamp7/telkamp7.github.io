@@ -59,7 +59,7 @@ content:
       - layout: left
         title: Technical University of Denmark
         caption: 2021 - Present
-        sub_title: Master of Science in Engineering
+        sub_title: Master of Science in Engineering (Quantitative Biology and Disease Modelling)
         quote: >
           Founded in 1829 with the mission of creating value for the benefit of society, DTU is an international elite technical university where education, scientific advice, and innovation rest on a solid foundation of world-class research.
         description: |
@@ -77,17 +77,17 @@ content:
           The purpose of the expert panel is to develop mathematical models to throw light on the spread of SARS-CoV-2 in Denmark.
         description: | # this will include new lines to allow paragraphs
             My main role was to develop and maintain a mathematical model that was used together with an ensemble of models to forecast the SARS-CoV-2 spread in Denmark, and investigate the effects of specific interventions.
-#   - title: Experience # Title for the section
-#     layout: list # Type of content section (list/text)
-#     content:
-#      - layout: left
-#        title: Ungfredensborg
-#        link: www.ungfredensborg.dk
-#        # link_text: compute.dtu.dk
-#        sub_title: eSport Coach
-#        caption: October 2017 - January 2019
-#        description: | # this will include new lines to allow paragraphs
-#            Coached a group of teenagers in the age of 13-17 in the first-person-shooter game Counter Strike: Global Offensive (CS:GO). Our weekly practice resulted in a first place in the national CS:GO youth school competition. Furthermore I was a key figure in organizing three big LAN events with 70+ participants for youngsters in Fredensborg Kommune.
+   - title: Experience # Title for the section
+     layout: list # Type of content section (list/text)
+     content:
+      - layout: left
+        title: Ungfredensborg
+        link: www.ungfredensborg.dk
+        # link_text: compute.dtu.dk
+        sub_title: eSport Coach
+        caption: October 2017 - January 2019
+        description: | # this will include new lines to allow paragraphs
+            Coached a group of teenagers in the age of 13-17 in the first-person-shooter game Counter Strike: Global Offensive (CS:GO). Our weekly practice resulted in a first place in the national CS:GO youth school competition. Furthermore I was a key figure in organizing three big LAN events with 70+ participants for youngsters in Fredensborg Kommune.
 #   - title: Experience # Title for the section
 #     layout: list # Type of content section (list/text)
 #     content:
