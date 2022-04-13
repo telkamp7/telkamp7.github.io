@@ -52,6 +52,60 @@ about_content: | # this will include new lines to allow paragraphs
   
   I am most skilled in: <mark>Statistics</mark> and <mark>Mathematical Modelling</mark>.
 
+
+# Site
+repository: sproogen/resume-theme
+favicon: images/favicon.ico
+
+# Content configuration version
+version: 2
+
+# Personal info
+name: Kasper Schou Telkamp
+title: Enrolled as MSc Eng., Quantitative Biology and Disease Modelling
+email: kasper.telkamp@gmail.com
+website: https://telkamp7.github.io/
+
+# Dark Mode (true/false/never)
+darkmode: false
+
+# Social links
+twitter_username: telkaMpOG
+github_username:  telkamp7
+# stackoverflow_username: "00000001"
+# dribbble_username: jekyll
+# facebook_username: jekyll
+# flickr_username: jekyll
+# instagram_username: jameswgrant
+linkedin_username: kstelkamp
+# xing_username: jekyll
+# pinterest_username: jekyll
+# youtube_username: globalmtb
+# googleplus_username: +jekyll
+# orcid_username: 0000-0000-0000-0000
+
+# Additional icon links
+# additional_links:
+# - title: itsgoingto.be
+#   icon: fas fa-globe
+#   url: https://www.itsgoingto.be
+# - title: another link
+#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
+#   url: Link url (eg. https://google.com)
+
+# Google Analytics and Tag Manager
+# Using more than one of these may cause issues with reporting
+# gtm: "GTM-0000000"
+# gtag: "UA-00000000-0"
+# google_analytics: "UA-00000000-0"
+
+# About Section
+# about_title: About Me
+about_profile_image: images/Mig og Luna.jpg
+about_content: | # this will include new lines to allow paragraphs
+  Hello, my name is Kasper and I am a 27 years old student. I am currently on the 2<sup>nd</sup> semester of my master studies. Furthermore, I live at Trørød Kollegiet in Vedbæk together with my wife and two daughters.
+  
+  I am most skilled in: <mark>Statistics</mark> and <mark>Mathematical Modelling</mark>.
 content:
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -63,8 +117,8 @@ content:
         quote: >
           Founded in 1829 with the mission of creating value for the benefit of society, DTU is an international elite technical university where education, scientific advice, and innovation rest on a solid foundation of world-class research.
         description: |
-          During my studies I have taken courses at both DTU and the University of Copenhagen. This have given me the opportunity to pursue my interest within immunology and bioinformatics, aswell as my interest within advanced statistics, deep learning, and mathematical modelling.
- - title: Experience # Title for the section
+          During my studies I have taken courses at both DTU and the University of Copenhagen. This have given me the opportunity to pursue my interest within immunology and bioinformatics, aswell as my interest within advanced statistics, deep learning, and mathematical modelling. 
+  - title: Experience - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
