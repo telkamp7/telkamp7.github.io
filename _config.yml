@@ -77,9 +77,6 @@ content:
           The purpose of the expert panel is to develop mathematical models to throw light on the spread of SARS-CoV-2 in Denmark.
         description: | # this will include new lines to allow paragraphs
             My main role was to develop and maintain a mathematical model that was used together with an ensemble of models to forecast the SARS-CoV-2 spread in Denmark, and investigate the effects of specific interventions.
-   - title: Experience # Title for the section
-     layout: list # Type of content section (list/text)
-     content:
       - layout: left
         title: Ungfredensborg
         link: www.ungfredensborg.dk
